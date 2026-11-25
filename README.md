@@ -25,7 +25,7 @@ ac-02-.../
 | # | Artigo | Pasta | Status |
 |---|--------|-------|--------|
 | 1 | O trabalho do Agile Coach | [`ac-01-trabalho-do-coach`](ac-01-trabalho-do-coach) | Disponível |
-| 2 | Por que transformações ágeis fracassam | `ac-02-transformacoes` | Em breve |
+| 2 | Por que transformações ágeis fracassam | [`ac-02-por-que-transformacoes-fracassam`](ac-02-por-que-transformacoes-fracassam) | Disponível |
 | 3 | Desenho organizacional | `ac-03-desenho-organizacional` | Em breve |
 | 4 | Hypercare depois da mudança | `ac-04-hypercare` | Em breve |
 | 5 | Quem coordena os coaches? | `ac-05-area-de-agilidade` | Em breve |
@@ -61,7 +61,7 @@ Each tool accompanies an article in the **Agile Coach in Practice** series, publ
 | # | Article | Folder | Status |
 |---|---------|--------|--------|
 | 1 | The Agile Coach's Work | [`ac-01-trabalho-do-coach`](ac-01-trabalho-do-coach) | Available |
-| 2 | Why Agile Transformations Fail | `ac-02-transformacoes` | Coming soon |
+| 2 | Why Agile Transformations Fail | [`ac-02-por-que-transformacoes-fracassam`](ac-02-por-que-transformacoes-fracassam) | Available |
 | 3 | Organizational Design | `ac-03-desenho-organizacional` | Coming soon |
 | 4 | Hypercare After the Change | `ac-04-hypercare` | Coming soon |
 | 5 | Who Coaches the Coaches? | `ac-05-area-de-agilidade` | Coming soon |
